@@ -1,68 +1,137 @@
-# Hi there 👋 I'm Roshni Chaudhary
+<h1 align="center">Hi 👋, I'm Roshni Chaudhary</h1>
 
-## AI & Backend Developer
+<h3 align="center">
+AI Software Engineer • Backend Developer • Machine Learning Enthusiast
+</h3>
 
-I'm passionate about building intelligent software using Machine Learning, FastAPI, Python, and Large Language Models.
+<p align="center">
+Building intelligent applications with Python, FastAPI, Machine Learning, and Large Language Models.
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/roshni659/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
+  <a href="mailto:roshnichaudhary659@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-## 💻 Tech Stack
-
-### Languages
-
-- Python
-- SQL
-- JavaScript
-
-### Backend
-
-- FastAPI
-- Flask
-- REST APIs
-
-### AI & Machine Learning
-
-- Pandas
-- NumPy
-- Scikit-learn
-- OpenAI API
-
-### Databases
-
-- PostgreSQL
-- SQLite
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Docker
+  <img src="https://komarev.com/ghpvc/?username=rishnichaudhary659&style=for-the-badge&color=blue" />
+</p>
 
 ---
 
-## 🌟 Featured Projects
+## 👩‍💻 About Me
 
-### AI Financial Analyst
-
-An AI-powered financial analysis platform built using FastAPI and Streamlit.
-
-### AI Data Analyst
-
-A smart data analysis application capable of generating insights from uploaded datasets.
+- 🚀 Passionate about building intelligent and production-ready AI applications.
+- 🤖 Interested in AI Integration Engineering, LLMs, RAG, AI Infrastructure, and Backend Development.
+- 💡 Love turning complex data into meaningful insights through AI.
+- 📚 Currently learning Docker, AWS, MLOps, LangGraph, and scalable AI systems.
+- 🎯 Looking for opportunities to build impactful AI-powered software.
 
 ---
 
-## 🌱 Currently Working On
+## 🚀 Current Focus
 
-- AI Agents
-- RAG Applications
-- Docker Deployment
+- AI Integration Engineering
+- Backend Development
+- FastAPI APIs
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI-Powered Data Analytics
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,js,html,css,postgres,sqlite,docker,git,github,vscode,postman,aws" />
+
+</p>
+
+---
+
+# 🤖 AI / Machine Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,aws,redis,kubernetes" />
+
+</p>
+
+- LangGraph
+- LangChain
+- RAG Pipelines
+- Vector Databases
+- CI/CD
 - MLOps
 
 ---
 
-## 📫 Connect With Me
+# 📈 GitHub Stats
 
-- LinkedIn: Your LinkedIn URL
-- Email: your@email.com
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🎯 Career Goal
+
+To build scalable AI-powered software by combining Machine Learning, Backend Engineering, Cloud Technologies, and Large Language Models to solve real-world problems.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/roshni659/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="roshnichaudhary659@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+⭐ *"Building AI solutions that are practical, scalable, and impactful."*

@@ -1,40 +1,68 @@
-<h1 align="center">Hi 👋, I'm Roshni Chaudhary</h1>
-<h3 align="center">AI Software Engineer | Backend Developer | Machine Learning Enthusiast</h3>
+# Hi there 👋 I'm Roshni Chaudhary
 
-<p align="center">
-Building intelligent applications with Python, FastAPI, Machine Learning, and Large Language Models.
-</p>
+## AI & Backend Developer
+
+I'm passionate about building intelligent software using Machine Learning, FastAPI, Python, and Large Language Models.
+
+
+
+## 💻 Tech Stack
+
+### Languages
+
+- Python
+- SQL
+- JavaScript
+
+### Backend
+
+- FastAPI
+- Flask
+- REST APIs
+
+### AI & Machine Learning
+
+- Pandas
+- NumPy
+- Scikit-learn
+- OpenAI API
+
+### Databases
+
+- PostgreSQL
+- SQLite
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Docker
 
 ---
 
-## 👩‍💻 About Me
+## 🌟 Featured Projects
 
-- 💡 Passionate about building production-ready AI applications
-- 🤖 Interested in AI Integration, LLM Applications, RAG, and AI Infrastructure
-- ⚙️ Experienced with Python, FastAPI, REST APIs, and data-driven applications
-- 📊 Enjoy transforming raw data into intelligent insights
-- 🚀 Currently exploring Docker, AWS, MLOps, and scalable AI systems
-- 🌱 Always learning and building real-world projects
+### AI Financial Analyst
 
----
+An AI-powered financial analysis platform built using FastAPI and Streamlit.
 
-## 🚀 Current Focus
+### AI Data Analyst
 
-- AI Integration Engineering
-- Backend Development
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI-Powered Data Analysis
-- Cloud & Deployment
-
-
-
-
-## 🎯 Career Goal
-
-To build scalable AI systems that bridge Machine Learning, Backend Engineering, and Cloud Infrastructure, enabling intelligent applications that solve real-world problems.
+A smart data analysis application capable of generating insights from uploaded datasets.
 
 ---
 
+## 🌱 Currently Working On
 
-- 📧 Email: roshni.work2058@gmail.com
+- AI Agents
+- RAG Applications
+- Docker Deployment
+- MLOps
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: Your LinkedIn URL
+- Email: your@email.com

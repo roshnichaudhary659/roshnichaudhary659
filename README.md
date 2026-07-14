@@ -61,17 +61,7 @@ AI Software Engineer • Backend Developer • Machine Learning Enthusiast
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=docker,aws,redis,kubernetes" />
-
 </p>
-
-- LangGraph
-- LangChain
-- RAG Pipelines
-- Vector Databases
-- CI/CD
-- MLOps
-
----
 
 # 📈 GitHub Stats
 
@@ -83,7 +73,6 @@ AI Software Engineer • Backend Developer • Machine Learning Enthusiast
 
 </p>
 
----
 
 # 🔥 GitHub Streak
 
